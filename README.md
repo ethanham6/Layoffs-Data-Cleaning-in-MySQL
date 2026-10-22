@@ -1,6 +1,6 @@
 # Layoffs_MySQL_Data_Cleaning
 
-#Layoffs Data Cleaning in SQL (MySQL)
+Layoffs Data Cleaning in SQL (MySQL)
 
 A SQL project that takes a messy layoffs CSV from raw import to an analysis-ready table. The focus is a safe, repeatable cleaning workflow: keep the raw data untouched, clean a working copy, and verify each step.
 
