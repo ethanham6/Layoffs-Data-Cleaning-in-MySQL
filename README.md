@@ -6,4 +6,4 @@ A SQL project that takes a messy layoffs CSV from raw import to an analysis-read
 
 The question
 
-Can I turn a raw, inconsistent layoffs file into a trustworthy dataset I can analyze by company, industry, country, and date?
+Can I turn a raw, inconsistent layoffs file into a trustworthy dataset I can analyze by company, industry, country, funds raised, total and percentage laid off, stage of company, and date?
